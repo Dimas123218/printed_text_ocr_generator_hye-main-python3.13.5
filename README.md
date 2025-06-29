@@ -26,7 +26,7 @@ Changes:
   - now everything that you need to run is inside Jupyter Notebooks
   - all python modules where moved to `SynthTextCore` local package 
 
-Environment requirements can be found in `requirements.txt`, python==3.6
+Environment requirements can be found in `requirements.txt`, python==3.13.5
 Use notebooks to run this project
 
 For information about original repository consult [it's README](https://github.com/ankush-me/SynthText)
