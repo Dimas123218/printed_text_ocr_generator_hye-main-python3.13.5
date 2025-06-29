@@ -1,6 +1,6 @@
 # Proper instruction for running the project
 1. Virtual Environment setup (I use anaconda)
-  - `python=3.6`
+  - `python=3.13.5`
   - `pip install -r requirements.txt`
 2. Setting up `data/` folder
   - copy everything from `data AM substitution/` into `data/`
